@@ -52,7 +52,7 @@ def crawl_comments(url):
 
     return all_comments
 
-def save_comments(comments, filename="comment.csv"):
+def save_comments(comments, filename="./train_data/comments.csv"):
     # Tạo DataFrame từ danh sách comment
     df = pd.DataFrame([{"Label": "", "Content": c} for c in comments])
 

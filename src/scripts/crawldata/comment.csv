@@ -2319,35 +2319,106 @@ toxic,"Chạy vài giờ là thấy mùi điện, sợ hãi."
 toxic,Cảm giác từng đồng tiền bỏ đi — chẳng có lợi ích.
 toxic,Không có thứ gì đáng khen ngoài cái tên thương hiệu.
 toxic,"Nếu có thể trả lại rồi đốt luôn, mình sẽ làm."
-,"Mua xong mà lòng đau như cắt. Nhưng thôi, nghĩ lại thì cũng đáng vì chất lượng ổn"
-,"Giao hàng nhanh, lắp đặt tận tình, nhưng mua xong ví tôi hơi đau"
-,"Mua tủ lạnh xong, đồ ăn chất đầy mà vẫn còn chỗ trống. Chắc phải ra siêu thị mua thêm"
-,"Giao hàng nhanh, lắp đặt cẩn thận nhưng hơi tiếc là không có tùy chọn màu sắc khác"
-,"Tủ lạnh thiết kế đẹp, dung tích lớn nhưng hơi chiếm diện tích một chút. Dù vậy vẫn rất hài lòng"
-,"Ngăn rau củ giữ ẩm tốt, rau để cả tuần vẫn tươi. Tính năng này mình thấy rất hữu ích"
-,"Tủ lạnh khử mùi rất tốt, không còn mùi khó chịu khi để thực phẩm lâu ngày. Rất hài lòng"
-,"Mua ở FPT Shop được giao hàng nhanh, nhân viên lắp đặt tận tình"
-,"Thiết kế Multi Door hiện đại, không gian lưu trữ rộng rãi. Cả nhà mình đều thích"
-,"Ngăn đông mềm bảo quản thực phẩm rất tốt, không cần rã đông khi nấu ăn. Quá tiện lợi"
-,"Công nghệ Inverter tiết kiệm điện đúng như quảng cáo. Tủ chạy êm, không gây tiếng ồn."
-,"Tủ lạnh thiết kế quá đẹp, dung tích lớn, rất phù hợp với gia đình đông người. Mình cực kỳ hài lòng"
-,có chính sách giảm giá thêm cho khách hàng thân thiết không
-,"Phương thức thanh toán khi mua tủ lạnh này như thế nào, có hỗ trợ thanh toán online không"
-,"Mua tủ lạnh này tại FPT Shop có được giao hàng tận nơi không,  phí giao hàng là bao nhiêu"
-,Nếu trả góp thì mỗi tháng mình phải trả bao nhiêu
-,Mua sản phẩm này trong dịp cuối năm thì có thêm ưu đãi gì không
-,"Ngoài giảm giá, không biết FPT Shop có hỗ trợ miễn phí vận chuyển không"
-,Giá cuối nhiêu
-,Mua tủ lạnh này tại FPT Shop có được tặng kèm quà gì không
-,Chương trình khuyến mãi cho sản phẩm này kéo dài đến khi nào vậy
-,"Có trả góp không , trả trước bao nhiêu"
-,Có khuyến mãi gì không
-,Bề mặt tủ lạnh có chống bám vân tay không
-,Đèn LED bên trong có sáng và bền không? Có giúp dễ dàng tìm đồ vào ban đêm không
-,"Tủ lạnh này có phù hợp với gia đình 4 người không, hay chỉ dành cho gia đình đông người"
-,"Dung tích lớn như vậy, không biết tủ lạnh này có gây tiếng ồn khi hoạt động không"
-,Tủ lạnh này có trang bị công nghệ khử mùi hay diệt khuẩn không
-,Bảng điều khiển cảm ứng bên ngoài có dễ sử dụng không
-,Ngăn rau củ của tủ lạnh này có giữ được độ ẩm lâu không
-,Tủ lạnh này có khả năng làm đá tự động không
-,"Mình thấy thiết kế Multi Door rất đẹp, nhưng không biết có dễ lau chùi không"
+toxic,Máy chạy chậm như rùa, bực cả mình
+toxic,Dùng một tuần đã hỏng, đúng phí tiền
+toxic,Phiền phức không tả nổi, treo liên tục
+toxic,Thiết kế xấu tệ, nhìn phát chán
+toxic,Âm thanh rè rè, nghe nhức đầu
+toxic,Quạt kêu như máy cày, khó chịu
+toxic,Pin tụt nhanh kinh khủng, lừa đảo à
+toxic,Nhiệt độ nóng như lò than, đụng tay bỏng
+toxic,Bàn phím gõ cứng ngắc, gõ vài lần là đau tay
+toxic,Màn hình mờ tịt, thua xa mấy con rẻ tiền
+toxic,Dùng được 2 ngày thì treo, vô lý thật
+toxic,Ổ cứng kêu cạch cạch phát bực
+toxic,Khởi động lâu như kỷ nguyên, không thể chấp nhận
+toxic,Laptop dỏm, không nên mua
+toxic,Hệ điều hành cài sẵn đầy rác
+toxic,Wifi bắt yếu xìu, ngồi sát router còn lag
+toxic,Loa kêu như loa phường, khó nghe
+toxic,Camera mờ còn hơn điện thoại 10 năm trước
+toxic,Thang điểm 10 cho sự thất vọng
+toxic,Dùng máy mà thấy bực hơn là vui
+toxic,Đem đi bảo hành mà nhân viên thái độ chán
+toxic,Hỏng liên tục, sửa không nổi
+toxic,Mua về chỉ muốn trả lại ngay lập tức
+toxic,Laptop này là trò hề
+toxic,Thật sự phí tiền cho một sản phẩm tệ
+toxic,Phần mềm cài sẵn toàn quảng cáo
+toxic,Ổ sạc lỏng lẻo, vừa cắm vừa lo
+toxic,Máy nặng như cục gạch, mang đi cực khổ
+toxic,Chạy nóng khủng khiếp, khó mà dùng lâu
+toxic,Thiếu tối ưu, lag mọi tác vụ cơ bản
+toxic,Ổn định không có, toàn crash
+toxic,Dùng mà như tra tấn tinh thần
+toxic,Bộ nhớ ít đến mức vô dụng
+toxic,Ghi "gaming" mà game nhẹ còn giật
+toxic,Lừa người tiêu dùng trắng trợn
+toxic,Chưa bao giờ thấy cái máy nào tệ đến vậy
+toxic,Pin phồng chỉ sau vài tháng
+toxic,Màn hình chảy mực, quá thất vọng
+toxic,Bảo hành thì chậm, hỗ trợ thì kém
+toxic,Quạt bụi đầy nhanh bất thường
+toxic,Máy kêu ù ù, phiền phức
+toxic,Ổ cứng hỏng liên tục, dữ liệu bay màu
+toxic,Đem đi học mà xấu hổ, nhìn chán
+toxic,Máy lag còn hơn điện thoại cũ
+toxic,Không xứng đáng với giá tiền
+toxic,Laptop này chỉ tổ tức giận
+toxic,Hệ thống tản nhiệt vô dụng
+toxic,Phím dễ kẹt, gõ ức chế
+toxic,Touchpad lag, cảm ứng tệ
+toxic,Mua xong chỉ muốn bán lại
+toxic,Laptop lỗi thời đội lốt mới
+toxic,Không hiểu sao lại bán con này
+toxic,Thất vọng từ A đến Z
+toxic,Sạc máy nóng ran, lo phát nổ
+toxic,Dùng văn phòng còn không nổi
+toxic,Trải nghiệm đúng nghĩa ác mộng
+toxic,Cài Windows xong vẫn lag
+toxic,Nói thật là không đáng đồng nào
+toxic,Máy bị sọc màn chỉ sau vài tháng
+toxic,Laptop "mới" mà chạy chậm còn hơn cũ
+toxic,Ổ cắm điện dễ hỏng, nguy hiểm
+toxic,Hệ thống loa hỏng nhanh chóng
+toxic,Khung máy ọp ẹp, yếu ớt
+toxic,Chuột cảm ứng hay nhảy loạn
+toxic,Nghe danh thương hiệu mà thất vọng
+toxic,Dùng ức chế, không còn lời nào
+toxic,Máy bị treo ngay khi mở Word
+toxic,Trải nghiệm tệ hại chưa từng thấy
+toxic,Ổ DVD kêu rít rít, lạc hậu
+toxic,Nhiều lỗi nhỏ làm mất kiên nhẫn
+toxic,Laptop tệ hơn tưởng tượng nhiều
+toxic,Không hiểu sao lại bán giá cao vậy
+toxic,Mua về đúng là sai lầm lớn
+toxic,Sản phẩm chẳng khác gì đồ phế liệu
+toxic,Dùng được vài ngày là muốn bỏ
+toxic,Hệ điều hành lỗi liên tục
+toxic,Chạy Excel còn giật, quá tệ
+toxic,Pin chai cực nhanh, ức chế
+toxic,Thương hiệu này xuống cấp thật sự
+toxic,Đèn bàn phím không hoạt động
+toxic,Laptop mở lên toàn tiếng ồn
+toxic,Màn hình dễ trầy, kém chất lượng
+toxic,Laptop lag khi xem Youtube
+toxic,Dùng thử rồi chỉ biết chửi thề
+toxic,Hỏng vặt nhiều vô kể
+toxic,Laptop như đồ chơi trẻ con
+toxic,Trải nghiệm cực kỳ thất vọng
+toxic,Sản phẩm dỏm, không đáng tin
+toxic,Bảo hành lâu và phiền phức
+toxic,Máy treo liên tục, không thể học tập
+toxic,Cấu hình thua xa quảng cáo
+toxic,Mua về rồi muốn khóc
+toxic,Laptop nóng đến mức không chạm nổi
+toxic,Máy chạy ồn ào suốt
+toxic,Ổn định gần như bằng 0
+toxic,Dùng một lần rồi bỏ xó
+toxic,Laptop đúng là cục tức di động
+toxic,Tiền mất mà rước thêm bực
+toxic,Chán nản không muốn nói thêm
+toxic,Laptop này nên cấm bán
+toxic,Sản phẩm kém xa kỳ vọng
+toxic,Dùng mà muốn đập máy
+toxic,Laptop gây thất vọng toàn tập

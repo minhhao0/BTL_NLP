@@ -23,7 +23,7 @@ vn_stopwords=pd.read_csv('D:\\BTL_NLP\\src\\scripts\\svm\\train_data\\vietnamese
 # print(vn_stopwords)
 #set random seed
 np.random.seed(500)
-corpus=pd.read_csv('D:\\BTL_NLP\\src\\scripts\\svm\\train_data\\comment.csv',encoding='utf-8-sig')
+corpus=pd.read_csv('D:\\BTL_NLP\\src\\scripts\\crawldata\\comment.csv',encoding='utf-8-sig')
 
 #preprocessing-data
 def pre_process(corpus):
